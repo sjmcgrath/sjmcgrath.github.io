@@ -1,0 +1,10 @@
+MIDlet-Jar-URL: totp-me.jar
+MIDlet-Jar-Size: 20526
+MIDlet-Name: TOTP ME
+MIDlet-Vendor: Josef Cacek
+MIDlet-Version: 1.8
+MIDlet-1: TOTP ME, /lock16.png, org.jboss.totp.TOTPMIDlet
+Created-By: Josef Cacek
+MIDlet-Icon: /lock16.png
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0
